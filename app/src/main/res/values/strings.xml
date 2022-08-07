@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PracticalConnectLab</string>
+    <string name="lbl_create_podcast">Create PodCast</string>
+    <string name="lbl_record">Record</string>
+    <string name="lbl_import_files">Import files</string>
+    <string name="lbl_recording">Recording</string>
+    <string name="lbl_stop">Stop</string>
+    <string name="lbl_preview_audio">Preview your Audio</string>
+    <string name="lbl_save">Save</string>
+    <string name="lbl_undo">Undo</string>
+    <string name="lbl_continue">Continue</string>
+    <string name="lbl_save_your_recording">Save your recording</string>
+    <string name="lbl_please_enter_podcast_name">Please enter podcast name</string>
+</resources>
